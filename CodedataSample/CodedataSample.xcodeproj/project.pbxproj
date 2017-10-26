@@ -15,7 +15,6 @@
 		C371A2D51F680C0F0026B61B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C371A2D31F680C0F0026B61B /* LaunchScreen.storyboard */; };
 		C371A2E01F680C0F0026B61B /* CodedataSampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C371A2DF1F680C0F0026B61B /* CodedataSampleTests.swift */; };
 		C371A2EB1F680C0F0026B61B /* CodedataSampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C371A2EA1F680C0F0026B61B /* CodedataSampleUITests.swift */; };
-		C371A2FD1F680E130026B61B /* Testmodal.swift in Sources */ = {isa = PBXBuildFile; fileRef = C371A2FC1F680E130026B61B /* Testmodal.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,7 +49,6 @@
 		C371A2E61F680C0F0026B61B /* CodedataSampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CodedataSampleUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C371A2EA1F680C0F0026B61B /* CodedataSampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CodedataSampleUITests.swift; sourceTree = "<group>"; };
 		C371A2EC1F680C0F0026B61B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		C371A2FC1F680E130026B61B /* Testmodal.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Testmodal.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,7 +106,6 @@
 				C371A2D31F680C0F0026B61B /* LaunchScreen.storyboard */,
 				C371A2D61F680C0F0026B61B /* Info.plist */,
 				C371A2CE1F680C0F0026B61B /* CodedataSample.xcdatamodeld */,
-				C371A2FC1F680E130026B61B /* Testmodal.swift */,
 			);
 			path = CodedataSample;
 			sourceTree = "<group>";
@@ -270,7 +267,6 @@
 			files = (
 				C371A2CA1F680C0F0026B61B /* ViewController.swift in Sources */,
 				C371A2D01F680C0F0026B61B /* CodedataSample.xcdatamodeld in Sources */,
-				C371A2FD1F680E130026B61B /* Testmodal.swift in Sources */,
 				C371A2C81F680C0F0026B61B /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
