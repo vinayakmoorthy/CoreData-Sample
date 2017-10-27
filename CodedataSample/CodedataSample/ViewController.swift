@@ -30,8 +30,8 @@ class ViewController: UIViewController {
     let context = appDelegate.persistentContainer.viewContext
     
     let uValue      = UserDetails(context: context)
-    uValue.age = txtAge.text
-    uValue.name = txtName.text
+    uValue.age      = txtAge.text
+    uValue.name     = txtName.text
     
     do {
       
